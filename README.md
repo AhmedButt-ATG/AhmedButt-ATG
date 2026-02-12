@@ -3,7 +3,7 @@
 <p align="left">
 
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=black&svgfill=15d8fe&height=28">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=black&svgfill=15d8fe&height=20">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
